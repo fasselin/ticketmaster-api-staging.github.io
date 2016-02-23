@@ -1,15 +1,12 @@
 ---
 layout: landing
 category: products-and-docs
-title: Products &amp; Docs
-excerpt: Whether you need a quick drop-in or are building a custom product, we have the APIs, SDKs, and Widgets you’re looking for
-keywords: API, SDK, widget, access api docs, become an affilate
 ---
 
 
 {% capture content %}
 {::comment}
-![Under development](/assets/img/ic-under-development.svg)
+![Icon](/assets/img/ic-under-development.svg)
 {:/comment}
 
 {: .triple-margin-top}
@@ -25,7 +22,7 @@ Whether you need a quick drop-in or are building a custom product, we have the [
 
 {: .body}
 Already doing business with Ticketmaster? <br>
-[Get in touch](mailto:distributedcommerce@ticketmaster.com) so we can hook you up.
+[Get in touch](mailto: distributedcommerce@ticketmaster.com) so we can hook you up.
 
 {% endcapture %}
 
@@ -36,7 +33,7 @@ Already doing business with Ticketmaster? <br>
 [![Commerce API](/assets/img/products-and-docs/ic-commerce-api.svg)](/products-and-docs/apis/commerce/)
 [![Partner API](/assets/img/products-and-docs/ic-user.svg)](/products-and-docs/apis/partner/)
 [![Deals API](/assets/img/products-and-docs/ic-cart.svg)](/products-and-docs/apis/deals-api/)
-[![International Discovery API](/assets/img/products-and-docs/ic-flag.svg)](/products-and-docs/apis/international-discovery/)
+![Icon5](/assets/img/products-and-docs/ic-flag.svg)
 
 {: .lead}
 Everything you need to handle event discovery,  commerce, accounts, orders, and fans.
@@ -54,7 +51,7 @@ Easy integration? No sweat.
 {% endcapture %}
 
 {% capture sdk_left %}
-[![Account Manager](/assets/img/products-and-docs/sdk-left.png)](https://twitter.com/tmastertech)
+[![Icon1](/assets/img/products-and-docs/sdk-left.png)](https://twitter.com/tmastertech)
 
 ### Account Manager
 
@@ -66,7 +63,7 @@ Enable fans to manage their tickets within your app using the AccountManager SDK
 {% endcapture %}
 
 {% capture sdk_right %}
-[![Direct Payments](/assets/img/products-and-docs/sdk-right.png)](https://www.universe.com/)
+[![Icon2](/assets/img/products-and-docs/sdk-right.png)](https://www.universe.com/)
 
 ### Direct Payments
 

@@ -1,13 +1,10 @@
 ---
 layout: home
 category: under_development
-title: Under development
-excerpt: Under development
-keywords: Under development
 ---
 
 {% capture content %}
-![Under development](/assets/img/ic-under-development.svg)
+![Icon](/assets/img/ic-under-development.svg)
 
 # SORRY, WE'RE STILL WORKING ON IT :)
 
